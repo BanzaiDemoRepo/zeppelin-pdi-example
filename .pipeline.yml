@@ -6,7 +6,6 @@ pipeline:
     google_project: "master-purpose-195813"
     google_gke_version: "1.9.4-gke.1"
     google_node_count: "2"
-    google_service_account: "86ecefc194688544ccf4cbe957401bf8f790c5a2"
 
     secrets: [plugin_endpoint, plugin_token]
 
